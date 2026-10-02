@@ -143,7 +143,7 @@ My personal developer portfolio showcasing my projects, skills and professional 
 ## 🤝 Connect with Me
 
 <p align="left">
-  <a href="TU_LINKEDIN">
+  <a href="www.linkedin.com/in/jorge-guijarro-fuentes">
     <img src="https://img.shields.io/badge/LinkedIn-Jorge_Guijarro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
