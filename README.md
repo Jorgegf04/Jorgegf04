@@ -79,6 +79,10 @@ I'm a **Web Application Development (DAW) graduate** focused on Backend Developm
 
 ## 🚀 Featured Projects
 
+<br>
+
+## 🚀 Featured Projects
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -116,6 +120,14 @@ My personal developer portfolio showcasing my projects, skills and professional 
 **Tech Stack:**  
 `Vue.js` `Spring Boot` `Java`
 
+<a href="URL_DE_TU_REPOSITORIO_PORTFOLIO">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+</tr>
+</table>
+
 <br>
 
 ## 📊 GitHub Stats
@@ -127,17 +139,6 @@ My personal developer portfolio showcasing my projects, skills and professional 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorgegf04&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 
 </div>
-
-<a href="URL_DE_TU_REPOSITORIO_PORTFOLIO">
-  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</td>
-</tr>
-</table>
-
-
-<br>
 
 ## 🤝 Connect with Me
 
