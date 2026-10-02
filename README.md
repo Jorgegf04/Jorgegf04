@@ -42,7 +42,7 @@ I'm a **Web Application Development (DAW) graduate** focused on Backend Developm
 ### 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,cs,php,js,python" />
+  <img src="https://skillicons.dev/icons?i=java,php,js,python" />
 </p>
 
 ### ⚙️ Backend & Frameworks
@@ -116,6 +116,18 @@ My personal developer portfolio showcasing my projects, skills and professional 
 **Tech Stack:**  
 `Vue.js` `Spring Boot` `Java`
 
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jorgegf04&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorgegf04&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+
+</div>
+
 <a href="URL_DE_TU_REPOSITORIO_PORTFOLIO">
   <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
@@ -123,3 +135,18 @@ My personal developer portfolio showcasing my projects, skills and professional 
 </td>
 </tr>
 </table>
+
+
+<br>
+
+## 🤝 Connect with Me
+
+<p align="left">
+  <a href="TU_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-Jorge_Guijarro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <a href="URL_DE_TU_PORTFOLIO">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
+</p>
